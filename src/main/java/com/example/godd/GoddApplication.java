@@ -8,6 +8,7 @@ public class GoddApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GoddApplication.class, args);
+        System.out.println("aaaaa");
     }
 
 }
